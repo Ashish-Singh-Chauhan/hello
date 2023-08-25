@@ -1,4 +1,4 @@
 # hello
 hello repository. 
 <br>
-Auther - ashsih
+Auther - ashsih singh
